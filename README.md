@@ -13,13 +13,13 @@ Lab work for **ED408: Statistical Machine Learning II Lab**.
 
 | File | Question | Description |
 |------|----------|-------------|
-| `q1 (2).ipynb` | Q1 | k-Nearest Neighbours (k-NN) classifier implemented from scratch (NumPy), tested for k = 1, 3, 5, 7, 9 |
-| `q2.ipynb` | Q2 | Decision Tree classifier using scikit-learn, with tree visualization |
-| `q3.ipynb` | Q3 | Naive Bayes classifier for spam vs. ham detection |
-| `q4.ipynb` | Q4 | Logistic Regression from scratch using gradient descent |
-| `Q5.py` | Q5 | PCA and t-SNE to reduce image data to 2D and visualize clusters |
-| `q6.ipynb` | Q6 | Outlier detection and treatment using z-score and IQR methods |
-| `q7.ipynb` | Q7 | Comparison of Logistic Regression and SVM using accuracy, precision, recall, F1-score and ROC-AUC |
+| [`Module_1/q1 (2).ipynb`](Module_1/q1%20(2).ipynb) | Q1 | k-Nearest Neighbours (k-NN) classifier implemented from scratch (NumPy), tested for k = 1, 3, 5, 7, 9 |
+| [`Module_1/q2.ipynb`](Module_1/q2.ipynb) | Q2 | Decision Tree classifier using scikit-learn, with tree visualization |
+| [`Module_1/q3.ipynb`](Module_1/q3.ipynb) | Q3 | Naive Bayes classifier for spam vs. ham detection |
+| [`Module_1/q4.ipynb`](Module_1/q4.ipynb) | Q4 | Logistic Regression from scratch using gradient descent |
+| [`Module_1/Q5.py`](Module_1/Q5.py) | Q5 | PCA and t-SNE to reduce image data to 2D and visualize clusters |
+| [`Module_1/q6.ipynb`](Module_1/q6.ipynb) | Q6 | Outlier detection and treatment using z-score and IQR methods |
+| [`Module_1/q7.ipynb`](Module_1/q7.ipynb) | Q7 | Comparison of Logistic Regression and SVM using accuracy, precision, recall, F1-score and ROC-AUC |
 
 ---
 
