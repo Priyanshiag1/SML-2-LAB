@@ -1,0 +1,11 @@
+City_Name,State,Economic_Zone,Latitude,Longitude,GDP_Contribution_Billion_USD,Annual_Freight_Tonnage_MT,Key_Economic_Sector,Logistics_Hub_Type
+Mumbai,Maharashtra,West,18.922,72.8347,310.0,65.4,Financial Services & Maritime Trade,Major Deepwater Seaport (JNPT / Mumbai Port)
+Delhi NCR,Delhi-NCR,North,28.6139,77.209,293.6,72.1,Wholesale Trade & Consumer Logistics,Multimodal Inland Container Depot (TKD / Dadri)
+Bengaluru,Karnataka,South,12.9716,77.5946,180.2,38.5,Information Technology & Aerospace,Air Cargo & White-Goods Logistics Park
+Kolkata,West Bengal,East,22.5726,88.3639,150.1,52.8,Heavy Industry & Eastern Trade Gateway,Riverine Port & Eastern Freight Hub
+Chennai,Tamil Nadu,South,13.0827,80.2707,160.5,58.2,Automotive Engineering & Electronics,Major East Coast Container Port (Chennai / Ennore)
+Hyderabad,Telangana,South,17.385,78.4867,140.4,36.9,Pharmaceuticals & Biotechnology,Inland Pharma Freight Distribution Center
+Ahmedabad,Gujarat,West,23.0225,72.5714,120.8,47.3,"Textiles, Chemicals & Engineering",Western Railway Freight Transshipment Junction
+Pune,Maharashtra,West,18.5204,73.8567,110.2,34.6,Automotive Components & Precision Tooling,Expressway Industrial Logistics Depot
+Surat,Gujarat,West,21.1702,72.8311,88.5,41.2,Diamond Processing & Synthetic Textiles,Coastal Industrial & Port Hub (Hazira Corridor)
+Jaipur,Rajasthan,North,26.9124,75.7873,76.3,27.8,"Gems, Jewelry & Mineral Processing",Western Dedicated Freight Corridor (WDFC) Junction
